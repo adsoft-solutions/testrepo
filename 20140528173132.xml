@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?><Document><SenderID>BE0405978157</SenderID><ReceiverID>BE0405978157</ReceiverID><TestIndicator>P</TestIndicator><ExternalVersion>CP1_0_DataModel</ExternalVersion><InternalVersion>V1</InternalVersion><Orders><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>2/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>geen ref	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-94</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>GOFORZERO BVBA</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRP3BALLEKE</SupplierArticleNumber><LongDescription>Balleke (huisbereid)  Bagnat bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>TEST TEST TEST</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>TEST TEST TEST TEST TEST</Value></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>Ajuin gedroogd</SupplierArticleNumber><LongDescription>Ajuin gedroogd</LongDescription><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities></OrderItem><OrderItem><SupplierArticleNumber>Artisjok gegrild</SupplierArticleNumber><LongDescription>Artisjok gegrild</LongDescription><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>216RA4100/BM/Matheco	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-84</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Danfoss</Name>
+										<StreetName>A. Gossetlaan 28</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BOTERKOEK</SupplierArticleNumber><LongDescription>Boterkoek </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>2</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>CHOCOLAT</SupplierArticleNumber><LongDescription>Chocolade koek </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>2</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>CROISSANT</SupplierArticleNumber><LongDescription>Croissant </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>3</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1000</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>216EI100/Sauer/Andy Whiteford	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-84</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Danfoss</Name>
+										<StreetName>A. Gossetlaan 28</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRFORNAVMBSP</SupplierArticleNumber><LongDescription>Mini broodje belegd met onze specialiteiten </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>15</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>2/1</GeneralInformation><OrderDate>2014-03-13</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-153</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Transkript vzw</Name>
+										<StreetName>C. Van Malderenstraat 33</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRP3JAWS</SupplierArticleNumber><LongDescription>Jaws  Bagnat Bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>VERONIQUE</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3FREAK</SupplierArticleNumber><LongDescription>Freak  Bagnat Bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>MARY</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>SOEP50cc</SupplierArticleNumber><LongDescription>Dagsoep 50cc </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>MARY</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP4TONIJNPORTU</SupplierArticleNumber><LongDescription>Tonijn portugees  Fitness stokbrood</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>HARRY</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITPERZIK</SupplierArticleNumber><LongDescription>Perzik met tonijn </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>EMMY</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>MET ANDALOUSE AUB</Value></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>NV</SupplierArticleNumber><LongDescription>Notenvruchtenbol </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>EMMY</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3TOMAATMOZZA</SupplierArticleNumber><LongDescription>Tomaat mozzarella  Stokbrood bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>MIA</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order></Orders></Document>

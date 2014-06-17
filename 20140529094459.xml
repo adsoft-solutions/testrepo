@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><Document><SenderID>BE0405978157</SenderID><ReceiverID>BE0405978157</ReceiverID><TestIndicator>P</TestIndicator><ExternalVersion>CP1_0_DataModel</ExternalVersion><InternalVersion>V1</InternalVersion><Orders><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>2/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-247</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>MOORE STEPHENS</Name>
+										<StreetName>Esplanade 1 - B96</StreetName>
+										<PostalCode>1020</PostalCode>
+										<City>Brussel</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRP3ITALIANO</SupplierArticleNumber><LongDescription>Italiano  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-12</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>DJAC</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3MARTINO</SupplierArticleNumber><LongDescription>Martino  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-12</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>YMEE</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>zonder augurk</Value></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>14106-MBWS-9H5DRY	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-165</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>OMRON ELECTRONICS</Name>
+										<StreetName>Stationsstraat 24</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRFORDIAMANT</SupplierArticleNumber><LongDescription>Diamant </LongDescription><RequestedDeliveryDate>2014-03-14</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>20</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>PO14106-MBWS-9H5DRY</Value></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1100</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>216RA4100/BM/Matheco-lunch	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-84</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Danfoss</Name>
+										<StreetName>A. Gossetlaan 28</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRFORNAVMBSP</SupplierArticleNumber><LongDescription>Mini broodje belegd met onze specialiteiten </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>15</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRFORNAVMBCL</SupplierArticleNumber><LongDescription>Mini broodje belegd met onze klassiekers </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>20</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-12</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>216EI100/Sauer/Andy Whiteford	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-84</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Danfoss</Name>
+										<StreetName>A. Gossetlaan 28</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRFORNAVMBSP</SupplierArticleNumber><LongDescription>Mini broodje belegd met onze specialiteiten </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>15</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>2/1</GeneralInformation><OrderDate>2014-03-13</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-192</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>MUTAS</Name>
+										<StreetName>LELIEGAARDE 20</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>ZELLIK</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>SOEP50cc</SupplierArticleNumber><LongDescription>Dagsoep 50cc </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>LDN</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>SOEP50cc</SupplierArticleNumber><LongDescription>Dagsoep 50cc </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>TK</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>SOEP50cc</SupplierArticleNumber><LongDescription>Dagsoep 50cc </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>CDE</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>SOEP50cc</SupplierArticleNumber><LongDescription>Dagsoep 50cc </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>CL</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITKIP</SupplierArticleNumber><LongDescription>Kip slaatje </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>BE</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITKIP</SupplierArticleNumber><LongDescription>Kip slaatje </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>ISA</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITNICOISE</SupplierArticleNumber><LongDescription> </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>MVD</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITRAUWKOST</SupplierArticleNumber><LongDescription>Rauwkostsalade </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>CSA</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>TRAITPIEMONTAIS</SupplierArticleNumber><LongDescription>Piemontaise </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>ABR</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>GW</SupplierArticleNumber><LongDescription>Wit stokbrood </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>BE</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>ASSORTIMETNBRO</SupplierArticleNumber><LongDescription>Assort. onbelegd mini broodjes &amp;amp; botertjes (3st/p) </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>ISA</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>GG</SupplierArticleNumber><LongDescription>Grijs stokbrood </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>TK</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>GW</SupplierArticleNumber><LongDescription>Wit stokbrood </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>ABR</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3HESPENKAAS</SupplierArticleNumber><LongDescription>Hesp en kaas  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>CL</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3ITALIANO</SupplierArticleNumber><LongDescription>Italiano  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>GVH</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>ZONDER TOMAAT</Value></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3CLUBKAAS</SupplierArticleNumber><LongDescription>Club kaas  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>BART</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3DIMARE</SupplierArticleNumber><LongDescription>Di Mare  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>KAL</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3MARTINOSPEC</SupplierArticleNumber><LongDescription>Martino special  Stokbrood bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>FG</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3ZWITSER</SupplierArticleNumber><LongDescription>Zwitser  Stokbrood bruin</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>JI</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BRP3MEATBALLSPE</SupplierArticleNumber><LongDescription>Meat Ball special  Stokbrood wit</LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>MN</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value>ZONDER TOMAAT</Value></ExtraElement></ExtraElements></OrderItem><OrderItem><SupplierArticleNumber>BROODJEVDMAAND</SupplierArticleNumber><LongDescription>Broodje vd maand </LongDescription><RequestedDeliveryDate>2014-03-13</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>1</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value>LDN</Value></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1100</Value></ExtraElement></ExtraElements></Order><Order><MessageType>ORD</MessageType><MessageFunction>ORI</MessageFunction><GeneralInformation>1/1</GeneralInformation><OrderDate>2014-03-13</OrderDate><References><Reference><ReferenceType>POR</ReferenceType><ReferenceNumber>216HE4100/CD/Sales meeting	
+</ReferenceNumber></Reference></References><Partners>
+									<Partner>
+										<PartnerType>BY</PartnerType>
+										<PartnerID>AD-84</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Danfoss</Name>
+										<StreetName>A. Gossetlaan 28</StreetName>
+										<PostalCode>1702</PostalCode>
+										<City>Groot-Bijgaarden</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Partner>
+										<PartnerType>DP</PartnerType>
+										<PartnerID>PXCL117</PartnerID>
+										<PartnerIDType>NAM</PartnerIDType>
+										<Name>Aan Tafel - partyline</Name>
+										<StreetName>Brusselsesteenweg 810</StreetName>
+										<PostalCode>1731</PostalCode>
+										<City>Zellik</City>
+										<Country>BE</Country>
+										<CustomerGroup>Adsoft</CustomerGroup>
+									</Partner>
+									<Create>true</Create>
+									<Update>true</Update>
+								</Partners><OrderItems><OrderItem><SupplierArticleNumber>BRFORNAVMBSP</SupplierArticleNumber><LongDescription>Mini broodje belegd met onze specialiteiten </LongDescription><RequestedDeliveryDate>2014-03-14</RequestedDeliveryDate><Quantities><Quantity><QuantityType>ORD</QuantityType><Amount>40</Amount><UnitOfMeasure>PCE</UnitOfMeasure></Quantity></Quantities><ExtraElements><ExtraElement><Name>Info1</Name><Datatype>AMemo</Datatype><Value /></ExtraElement><ExtraElement><Name>Info2</Name><Datatype>AMemo</Datatype><Value /></ExtraElement></ExtraElements></OrderItem></OrderItems><ExtraElements><ExtraElement><Name>Hour</Name><Datatype>AString</Datatype><Value>1200</Value></ExtraElement></ExtraElements></Order></Orders></Document>

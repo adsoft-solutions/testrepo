@@ -1,0 +1,159 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body {
+	margin: 0 auto;
+	text-align: center;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif !important;
+	font-size: 100%;
+	color: #000;
+	background: #fff;
+}
+
+#container {
+	width: 50%;
+	margin: 0 auto;
+	display: block;
+}
+
+.clearer {
+	clear: both;
+}
+
+.top {
+	margin: 50px auto 10px auto;
+	padding: 0;	
+	width: auto;
+	height: auto;
+}
+.top .inner {
+	display: inline;
+	margin: 0 20px;
+}
+
+#file-list {	
+	opacity: 0;
+	margin: 10px auto;
+	padding: 2px;
+	display: block;
+	width: 0;
+	border-radius: 5px;
+	border: 1px solid #428bca;
+	color: #000;
+	height: 0;	
+	overflow-x: hidden;
+	overflow-y: auto;
+	max-height: 200px;
+	max-width: 400px;
+}
+#file-list div.errors {
+	padding: 2px;
+	width: 100%;
+	background: rgba(255,0,0,1);
+	color: #fff;	
+	font-size: 10px;
+	text-align: left;
+	line-height: 10px;
+}
+#file-list ul.pre-upload {
+	list-style-type: none;
+	display: block;
+	margin: 0;
+	padding: 0;	
+}
+
+#file-list ul.pre-upload li {
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0 15px;
+    text-align: left;
+	line-height: 10px;
+	width: 100%;
+	font-size: 10px;
+	white-space: nowrap;
+	cursor: help;
+}
+
+#file-list ul.pre-upload li div.message {
+	color: blue;
+	display: inline-block;
+	right: 0;
+}
+
+#file-list ul.pre-upload li.good {
+	background: url('img/small_status.png') 0 -10px no-repeat;
+}
+
+#file-list ul.pre-upload li.bad {
+	background: url('img/small_status.png') 0 -20px no-repeat;
+}
+
+.uploaded_result {
+	display: none;	
+	margin: 0 auto;
+	text-align: left;
+	color: #000;
+}
+.uploaded_result div.upload-result-status {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #fff;
+    margin: 0 auto;
+    padding: 3px;
+    text-align: left;
+}
+.uploaded_result ul.upload-result {
+	list-style-type: none;
+	display: block;
+	margin: 10px 0;
+	padding: 0;
+	border-radius: 5px;
+	background: rgba(0,0,0,0.1);
+	border: 1px solid #555;
+	color: #000;	
+	max-height: 300px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.uploaded_result ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 0;
+	padding: 0 32px;
+	line-height: 28px;
+	width: 100%;
+}
+
+.uploaded_result ul li span {
+	margin: 0;
+	padding: 0;
+}
+
+.uploaded_result ul li.success {
+	background: url('img/status.png') 0 0 no-repeat;
+}
+.uploaded_result ul li.success span {
+	color: green;
+}
+
+.uploaded_result ul li.skipped {
+	background: url('img/status.png') 0 -25px no-repeat;
+}
+.uploaded_result ul li.skipped span {
+	color: orange;
+}
+
+.uploaded_result ul li.failed {
+	background: url('img/status.png') 0 -50px no-repeat;
+}
+
+.uploaded_result ul li.failed span {
+	color: red;
+}
+.hide {
+	display: none
+}
